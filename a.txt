@@ -1,4 +1,4 @@
 index 2
 asdfqwer
 test diff
-
+test merge
