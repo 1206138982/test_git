@@ -1,4 +1,6 @@
 hello world
 index 1
 index 2
+test diff
+test diff -cached
 
