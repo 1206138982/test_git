@@ -1,4 +1,3 @@
 index 2
-hello
 d program
 insert in local
